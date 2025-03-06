@@ -1,0 +1,8 @@
+These are all the practice problems I completed on the way to writing focal.
+I am taking a Udemy course, and these coding challenges are helping me apply
+linear algebra concepts in python. 
+
+They are organized by chapter folders.
+
+Ch1 & Ch2 are NOT missing. They were intro videos and setup videos, they did
+not have any practice or challenges to be completed.
